@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import Thermostat from "@/components/Thermostat.vue";
+import thermostat_logo from "@/assets/images/thermostat_logo.png";
 import {ref} from "vue";
 
 const minTemperature = ref(0);
@@ -10,7 +11,7 @@ const currentTemperature = ref(0);
 
 <template>
   <header>
-    <img alt="Thermometer App Logo" class="logo" height="125" src="./assets/thermostat_logo.png" width="125"/>
+    <img :src="thermostat_logo" alt="Thermometer App Logo" class="logo" height="125" width="125"/>
     <div class="wrapper">
       <HelloWorld msg="Thermostat Coding Exercise"/>
     </div>
