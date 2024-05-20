@@ -1,6 +1,14 @@
-# thermostat_coding_exercise
+# Thermostat coding challenge
 
-This template should help get you started developing with Vue 3 in Vite.
+This little challenge project is based on a standard Vue3 Hello World project.
+Instructions here should suffice to get this project up and running.
+
+I am adding this little additional documentation in post after my work has been completed.
+Thank you to the company, who reached out and provided me with this challenge.
+
+While my goal was to use the commit timestamps as a means of displaying accurate development progress,
+my two coffee runs and a quick restroom break have to be factored in.
+The actual development time is close to 1h 10min.
 
 ## Recommended IDE Setup
 
