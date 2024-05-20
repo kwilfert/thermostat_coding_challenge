@@ -1,4 +1,4 @@
-# thermostst_coding_exercise
+# thermostat_coding_exercise
 
 This template should help get you started developing with Vue 3 in Vite.
 
